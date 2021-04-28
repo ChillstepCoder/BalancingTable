@@ -1,0 +1,27 @@
+NATO (T)				RUSSIA (CT)	
+PISTOLS				PISTOLS	
+	1911				1911
+	m9				tokarev
+	57				57
+	sock				tec9
+	de				revolver
+SMGS				SMGS	
+	uzi				uzi
+	ar9				smg
+	mp5				ak
+	kross				vanas
+SHOTGUN				SHOTGUN	
+	shotgun				shotgun
+	sawedoff				sawedoff
+	autoshotgun				autoshotgun
+	drumshotgun				drumshotgun
+RIFLE				RIFLE	
+	m16				aug
+	galil				ak12
+	ar				ak47
+					vss
+HEAVY					
+	lmga				lmga
+	awp				awp
+	scar				autosniper
+	antitank				antitank
